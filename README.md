@@ -25,7 +25,7 @@ I'm a passionate **Data Analyst**, **Machine Learning Enthusiast**, and **Data S
 
 - **[Air Quality Analysis Using KMeans Clustering](https://github.com/Nanaacaw/air_quality)**: Analyzing the relationship between CO and NO2 levels using KMeans clustering.
 - **[Pokémon Data Analysis](https://github.com/Nanaacaw/pokemon_analyst)**: Exploring and visualizing the Pokémon dataset to uncover interesting patterns and insights.
-- **[Final project on Clustering the Countries using K-Means for HELP International](link-to-repo)**: This project aims to cluster countries based on social indicators such as income and life expectancy.
+- **[Final project on Clustering the Countries using K-Means for HELP International](https://github.com/Nanaacaw/data_negara_HELP)**: This project aims to cluster countries based on social indicators such as income and life expectancy.
 
 ### 🚀 Technologies and Tools
 
