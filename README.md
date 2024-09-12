@@ -2,7 +2,7 @@
 
 <!-- Adding Banner -->
 
-[!Banner]()
+[!Banner](https://github.com/Nanaacaw/Nanaacaw/blob/main/banner-github.png)
 
 <!-- Desc -->
 
