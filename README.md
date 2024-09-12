@@ -2,7 +2,9 @@
 
 <!-- Adding Banner -->
 
-[Banner](https://github.com/Nanaacaw/Nanaacaw/blob/main/banner-github.png)
+<p align="center">
+  <img src="https://github.com/Nanaacaw/Nanaacaw/blob/main/banner-github.png" alt="Nana Casmana A.W Banner" />
+</p>
 
 <!-- Desc -->
 
