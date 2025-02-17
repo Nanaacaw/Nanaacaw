@@ -16,7 +16,7 @@ I'm a passionate **Data Analyst**, **Machine Learning Enthusiast**, and **Data S
 
 ### 🧐 About Me
 
-- 🔭 I’m currently a 7th semester student of Informatics with an interest in data and machine learning.
+- 🔭 I’m currently a 8th semester student of Informatics with an interest in data and machine learning.
 - 🌱 I’m constantly learning about advanced machine learning algorithms, big data analytics, and data visualization techniques.
 - 👯 I’m looking to collaborate on projects related to predictive analytics and data-driven decision making.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nana-caw/)
@@ -29,7 +29,7 @@ I'm a passionate **Data Analyst**, **Machine Learning Enthusiast**, and **Data S
 
 ### 🚀 Technologies and Tools
 
-- **Programming Languages**: Python, R
+- **Programming Languages**: Python
 - **Data Analysis and Visualization**: Pandas, Matplotlib, Seaborn, Plotly
 - **Machine Learning**: Scikit-Learn, TensorFlow
 - **Databases**: SQL
@@ -44,17 +44,3 @@ I'm a passionate **Data Analyst**, **Machine Learning Enthusiast**, and **Data S
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nana-caw/)
 
-<!--
-**Nanaacaw/Nanaacaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
