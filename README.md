@@ -114,24 +114,10 @@ class NanaCasmana:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nanaacaw&show_icons=true&count_private=true&hide_border=true&theme=react" alt="Nana's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanaacaw&layout=compact&hide_border=true&theme=react" alt="Top Langs" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Nanaacaw&hide_border=true&theme=react" alt="GitHub Streak" />
-</p>
-
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nanaacaw/Nanaacaw/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nanaacaw/Nanaacaw/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Nanaacaw/Nanaacaw/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 ---
