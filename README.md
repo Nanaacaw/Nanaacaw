@@ -122,11 +122,16 @@ class NanaCasmana:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nanaacaw&hide_border=true&theme=react" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Nanaacaw&hide_border=true&theme=react" alt="GitHub Streak" />
 </p>
 
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nanaacaw&theme=algolia&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nanaacaw/Nanaacaw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nanaacaw/Nanaacaw/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Nanaacaw/Nanaacaw/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
